@@ -1,0 +1,14 @@
+ // var getDaysBetweenDates = function(startDate, endDate) {
+  //   var now = startDate.clone(), dates = [];
+
+  //   while (now.isSameOrBefore(endDate)) {
+  //       dates.push(now.format("ddd Do"));
+  //       now.add(1, 'days');
+  //   }
+  //   return dates;
+  // };
+
+  // var startDate = moment();
+  // var endDate = moment(startDate, "ddd Do").add(5, 'days');
+
+  // var dateList = getDaysBetweenDates(startDate, endDate);
